@@ -1,0 +1,119 @@
+
+
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+   padding: 20px 0;
+   align-items: center;
+   justify-content: space-around;
+  
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+    
+   
+}
+nav ul li a{
+    text-decoration: none;
+    background-color: ;
+    margin: 0 0.5rem;
+}
+body{
+    
+    background-color:rgb(142, 167, 188);
+    font-family: sans-serif;
+    color: black ;
+    margin: 0;
+    margin: 0;
+
+}
+h1,h2,h3{
+    color: darkblue;
+}
+input,select,textarea {
+    width: 100%;
+    margin: 0.5rem;
+    padding: 0.8rem;
+    box-sizing: border-box;
+    background-color: rgb(159, 189, 213);
+    
+
+}
+table{
+    text-align: center;
+    width: 85%;
+    border-collapse: collapse;
+    margin: 12rem 0;
+    
+}
+table,th,td{
+   border: 1px solid ;
+   padding: 0.5rem;
+
+}
+th{
+    background-color: rgb(159, 189, 213);
+}
+#about{
+    text-align: center;
+}
+#skills{
+    text-align: center;
+}
+#projects{
+    text-align: center;
+    ul ,li{
+        text-align: center;
+    }
+}
+#contact{
+    text-align: center;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+    padding: 1.2rem;
+   
+}
+#intro{
+    background-image: url(image/cover.jpg.jpg );
+    height:100vh ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    
+}
+footer{
+    background-color: green;
+    color: ;
+    text-align: center;
+    width: 100%;
+    padding: 0.5rem;
+}
+button{
+    background-color:rgb(142, 167, 188) ;
+    color: #31588f;
+    padding: 0.5rem 0.5rem;
+    margin: 0.5rem 0;
+}
+
+.social-media a{
+
+    
+}
+ul  a{
+    text-decoration:none ;
+}
+    
+    
+
+
+
+
+
+
